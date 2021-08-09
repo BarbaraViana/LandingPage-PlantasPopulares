@@ -11,12 +11,13 @@ body {
 }
 
 .margin {
-    padding: 80px;
+    padding: 40px;
     padding-bottom: 80px;
 }
 
 .conteudo {
     background-color: #C4FDC5;
+    padding: 05%;
 }
 
 .col-lg-6 {
